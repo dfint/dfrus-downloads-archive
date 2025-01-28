@@ -1,5 +1,7 @@
 # dfrus-downloads-archive
 
+Archive of downloads from <https://bitbucket.org/dfint/downloads/downloads/>
+
 Count of downloads from bitbucket as of 2025-01-28:
 
 | Name                                                      | Downloads | Upload date |
